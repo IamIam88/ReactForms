@@ -1,0 +1,15 @@
+body {
+  margin: 50px 500px 0px 500px;
+  background-color: aliceblue;
+  text-align: center;
+  border: 3px solid lightslategray ;
+  padding-bottom: 10px;
+  border-radius: 25px;
+}
+
+button {
+ border-radius: 5px;
+ background-color: lightsalmon;
+ margin: 10px;
+ padding: 10px;
+}
